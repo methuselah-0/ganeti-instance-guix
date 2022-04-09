@@ -1,3 +1,9 @@
+Version 0.7
+-----------
+
+* Support xfs and ext2/3/4 filesystems on LVM and btrfs in
+  subvolumes.
+
 Version 0.6.1
 -----------
 * Subtract EFI partition size from DISK_SIZE to work around Guix
